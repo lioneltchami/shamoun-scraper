@@ -15,6 +15,7 @@ GitHub Actions requires these repository secrets:
 
 - `SUPABASE_URL`
 - `SUPABASE_SERVICE_ROLE_KEY`
+- `OPENAI_API_KEY`
 
 ## Local usage
 
@@ -23,6 +24,9 @@ pip install -r requirements-scraper.txt
 npm install
 
 SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... npm run db:ingest
+SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... npm run db:verses
+SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... OPENAI_API_KEY=... npm run db:embed
 SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... npm run db:validate
 SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... npm run db:audit-contract
+SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... OPENAI_API_KEY=... npm run db:pipeline
 ```

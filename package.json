@@ -8,8 +8,11 @@
   },
   "scripts": {
     "db:ingest": "tsx scripts/ingest-articles.ts",
+    "db:embed": "tsx scripts/generate-embeddings.ts",
+    "db:verses": "tsx scripts/extract-verse-index.ts",
     "db:validate": "tsx scripts/validate-data.ts",
     "db:audit-contract": "tsx scripts/audit-content-contract.ts",
+    "db:pipeline": "tsx scripts/ingest-articles.ts && tsx scripts/extract-verse-index.ts && tsx scripts/generate-embeddings.ts && tsx scripts/validate-data.ts",
     "type-check": "tsc --noEmit"
   },
   "dependencies": {

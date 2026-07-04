@@ -1,0 +1,30 @@
+{
+  "scraped_at": "2026-07-04 06:34:21",
+  "old_index_url": "https://answeringislam.info/Shamoun/index.htm",
+  "new_index_url": "https://answeringislam.info/Authors/Shamoun/index.html",
+  "total_articles": 748,
+  "successful_downloads": 748,
+  "failed_downloads": 0,
+  "categories": {
+    "01_common_questions_and_claims": 57,
+    "02_general_issues": 27,
+    "03_theological_issues": 33,
+    "04_christological_issues": 73,
+    "05_quranic_issues": 47,
+    "06_analysis_of_muhammad": 40,
+    "07_hadith_literature": 6,
+    "08_polemical_issues": 20,
+    "09_debate_challenges": 3,
+    "10_debate_material": 2,
+    "11_articles_on_other_websites": 20,
+    "12_new_common_questions": 8,
+    "13_short_summary_articles": 1,
+    "14_turning_the_tables": 4,
+    "15_new_christological_issues": 185,
+    "16_new_theological_issues": 75,
+    "17_biblical_issues": 12,
+    "18_new_quranic_issues": 46,
+    "19_new_analysis_of_muhammad": 71,
+    "20_responses_to_muslim_authors": 18
+  }
+}

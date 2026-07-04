@@ -1,0 +1,41 @@
+# More Merciful than the Most Merciful?
+
+**Source:** [Answering Islam](https://answeringislam.info/authors/shamoun/more_merciful.html)
+
+**Category:** 16 New Theological Issues
+
+---
+
+# More Merciful than the Most Merciful?
+
+[Sam Shamoun](https://www.youtube.com/@shamounian)
+
+The Quran states that Allah is the most merciful from all those who show mercy:
+
+Moses prayed: "O my Lord! forgive me and my brother! admit us to Thy mercy! **for Thou art the Most Merciful of those who show mercy!** " S. 7:151 Y. Ali 
+
+He said: "Shall I trust you with him with any result other than when I trusted you with his brother aforetime? But God is the best to take care (of him), **and He is the Most Merciful of those who show mercy!** " S. 12:64 Y. Ali – cf. Q. 12:92; 21:83
+
+The Quran also proclaims that Allah sent Muhammad as a mercy for all creatures:
+
+Now hath come unto you an Apostle from amongst yourselves: it grieves him that ye should perish: ardently anxious is he over you: **to the Believers is he most kind and merciful**. S. 9:128 Y. Ali 
+
+We have not sent thee, [o Mohammed], **but as a mercy unto all creatures**. S. 21:107 Sale
+
+In light of such assertions, one wouldn’t expect there to be someone else who was more merciful than either Allah or Muhammad. And yet this is precisely what we find according to the ahadith literature. 
+
+The following lengthy hadith unveils the identity of this person:
+
+Narrated Abu Dhar: 
+
+Allah's Apostle said, "While I was at Mecca the roof of my house was opened and Gabriel descended, opened my chest, and washed it with Zam-zam water. Then he brought a golden tray full of wisdom and faith and having poured its contents into my chest, he closed it. Then he took my hand and ascended with me to the nearest heaven, when I reached the nearest heaven, Gabriel said to the gatekeeper of the heaven, 'Open (the gate).' The gatekeeper asked, 'Who is it?' Gabriel answered: 'Gabriel.' He asked, 'Is there anyone with you?' Gabriel replied, 'Yes, Muhammad is with me.' He asked, 'Has he been called?' Gabriel said, 'Yes.' So the gate was opened and we went over the nearest heaven and there we saw a man sitting with some people on his right and some on his left. When he looked towards his right, he laughed and when he looked toward his left he wept. Then he said, 'Welcome! O pious Prophet and pious son.' I asked Gabriel, 'Who is he?' He replied, 'He is Adam and the people on his right and left are the souls of his offspring. Those on his right are the people of Paradise and those on his left are the people of Hell and when he looks towards his right he laughs and when he looks towards his left he weeps.' Then he ascended with me till he reached the second heaven and he (Gabriel) said to its gatekeeper, 'Open (the gate).' The gatekeeper said to him the same as the gatekeeper of the first heaven had said and he opened the gate.” Anas said: "Abu Dhar added that the Prophet met Adam, Idris, Moses, Jesus and Abraham, he (Abu Dhar) did not mention on which heaven they were but he mentioned that he (the Prophet) met Adam on the nearest heaven and Abraham on the sixth heaven.” Anas said, "When Gabriel along with the Prophet passed by Idris, the latter said, 'Welcome! O pious Prophet and pious brother.' The Prophet asked, 'Who is he?' Gabriel replied, 'He is Idris.’ The Prophet added, ‘I passed by Moses and he said, 'Welcome! O pious Prophet and pious brother.' I asked Gabriel, 'Who is he?' Gabriel replied, 'He is Moses.' Then I passed by Jesus and he said, 'Welcome! O pious brother and pious Prophet.' I asked, 'Who is he?' Gabriel replied, 'He is Jesus.’ Then I passed by Abraham and he said, 'Welcome! O pious Prophet and pious son.' I asked Gabriel, 'Who is he?' Gabriel replied, 'He is Abraham.’ The Prophet added, 'Then Gabriel ascended with me to a place where I heard the creaking of the pens.’” Ibn Hazm and Anas bin Malik said: The Prophet said, "**Then Allah enjoined fifty prayers on my followers. When I returned with this order of Allah** , I passed by Moses who asked me, 'What has Allah enjoined on your followers?' I replied, 'He has enjoined fifty prayers on them.' Moses said, **'Go back to your Lord (and appeal for reduction) for your followers will not be able to bear it**.' (So I went back to Allah and requested for reduction) and He reduced it to half. When I passed by Moses again and informed him about it, he said, **'Go back to your Lord as your followers will not be able to bear it**.' So I returned to Allah and requested for further reduction and half of it was reduced. I again passed by Moses and he said to me: **'Return to your Lord, for your followers will not be able to bear it**.’ So I returned to Allah and He said, 'These are five prayers and they are all (equal to) fifty (in reward) **for My Word does not change**.' **I returned to Moses and he told me to go back once again**. I replied, 'Now I feel shy of asking my Lord again.' Then Gabriel took me till we reached Sidrat-il-Muntaha (Lote tree of the utmost boundary) which was shrouded in colors, indescribable. Then I was admitted into Paradise where I found small (tents or) walls (made) of pearls and its earth was of musk.” (_Sahih al-Bukhari_ , Volume 1, Book 8, [Number 345](<http://searchtruth.com/book_display.php?book=8&translator=1&start=0&number=345> "Opens external link in new window"))
+
+Here is another version of this report:
+
+“… Then Allah revealed to me a revelation and He made obligatory for me fifty prayers every day and night. Then I went down to Moses and he said: What has your Lord enjoined upon your Ummah? I said: Fifty prayers. He said: Return to thy Lord and beg for reduction (in the number of prayers), **for your community shall not be able to bear this burden** , as I have put to test the children of Isra'il and tried them (and found them too weak to bear such a heavy burden). He (the Holy Prophet) said: I went back to my Lord and said: My Lord, make things lighter for my Ummah. (The Lord) reduced five prayers for me. I went down to Moses and said. (The Lord) reduced five (prayers) for me, He said: **Verily thy Ummah shall not be able to bear this burden; return to thy Lord and ask Him to make things lighter**. I then kept going back and forth between my Lord Blessed and Exalted and Moses, till He said: There are five prayers every day and night. O Muhammad, each being credited as ten, so that makes fifty prayers. He who intends to do a good deed and does not do it will have a good deed recorded for him; and if he does it, it will be recorded for him as ten; whereas he who intends to do an evil deed and does not do, it will not be recorded for him; and if he does it, only one evil deed will be recorded. I then came down and when I came to Moses and informed him, he said: **Go back to thy Lord and ask Him to make things lighter**. Upon this the Messenger of Allah remarked: I returned to my Lord until I felt ashamed before Him.” (_Sahih Muslim_ , Book 001, [Number 0309](<http://searchtruth.com/book_display.php?book=001&translator=2&start=0&number=0309> "Opens external link in new window"))
+
+According to the foregoing, Allah initially ordered that his followers pray fifty times a day, an impossible task since this would require an entire day to fulfill, leaving no time for other duties and responsibilities. It was Moses who got these prayers reduced to five, thereby saving the Muslim community from this heavy burden since both Allah and his “messenger” were perfectly fine with having Muslims pray fifty times a day. And even here Moses was still concerned since he felt that five prayers would still be too much for the Muslims to perform. 
+
+In other words, had it not been for Moses the Muslims would have been praying fifty times a day. They should therefore be thankful for his intercession and for showing greater love and compassion than even their own prophet and god. 
+
+This basically proves that Moses was/is more compassionate and merciful than the very one the Quran calls the most merciful, and much more kind and compassionate than Muhammad ever was. As such, it is Moses who deserves to be called the most merciful of those who show mercy, not Allah. And he should be seen as a mercy for all creatures, not Muhammad, since he even had pity and compassion for a community that wasn’t his own.

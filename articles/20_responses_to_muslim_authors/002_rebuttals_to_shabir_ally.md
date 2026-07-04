@@ -1,0 +1,51 @@
+# Rebuttals to Shabir Ally
+
+**Source:** [Answering Islam](https://answeringislam.info/authors/shamoun/rebuttals/ally.html)
+
+**Category:** 20 Responses To Muslim Authors
+
+---
+
+# Rebuttals to Shabir Ally
+
+  * [The Apologist of Shirk Strikes Again!](https://answeringislam.info/authors/shamoun/rebuttals/ally/rabb.html)
+  * [Shabir Ally’s Contradictions and Inconsistencies Pt. 1](https://answeringislam.info/authors/shamoun/rebuttals/ally/contradictions1.html)
+  * [Shabir Ally’s Contradictions and Inconsistencies Pt. 2](https://answeringislam.info/authors/shamoun/rebuttals/ally/contradictions2.html)
+  * [Shabir Ally’s Contradictions and Inconsistencies Pt. 3a](https://answeringislam.info/authors/shamoun/rebuttals/ally/contradictions3a.html)
+  * [Shabir Ally’s Contradictions and Inconsistencies Pt. 3b](https://answeringislam.info/authors/shamoun/rebuttals/ally/contradictions3b.html)
+  * [Shabir Ally’s Contradictions and Inconsistencies Pt. 3c](https://answeringislam.info/authors/shamoun/rebuttals/ally/contradictions3c.html)
+  * [Shabir Ally’s Contradictions Addendum](https://answeringislam.info/authors/shamoun/rebuttals/ally/contradictions3_add.html)
+  * [Did Jesus Claim to be God? Pt. 1](https://answeringislam.info/authors/shamoun/rebuttals/ally/did_jesus_claim1.html)
+  * [Did Jesus Claim to be God? Pt. 2](https://answeringislam.info/authors/shamoun/rebuttals/ally/did_jesus_claim2.html)
+  * [Did Jesus Claim to be God? Pt. 3a](https://answeringislam.info/authors/shamoun/rebuttals/ally/did_jesus_claim3a.html)
+  * [Did Jesus Claim to be God? Pt. 3b](https://answeringislam.info/authors/shamoun/rebuttals/ally/did_jesus_claim3b.html)
+  * [Did Jesus Claim to be God? Pt. 4a](https://answeringislam.info/authors/shamoun/rebuttals/ally/did_jesus_claim4a.html)
+  * [Did Jesus Claim to be God? Pt. 4b](https://answeringislam.info/authors/shamoun/rebuttals/ally/did_jesus_claim4b.html)
+  * [Reply to Shabir Ally's Response to Dr. James White](https://answeringislam.info/authors/shamoun/rebuttals/ally/ally_white_reply.html)
+  * [The Holy Bible, the Quran, and the Story of Adam Pt. 1](https://answeringislam.info/authors/shamoun/rebuttals/ally/adam_bq1.html)
+  * [The Holy Bible, the Quran, and the Story of Adam Pt. 2](https://answeringislam.info/authors/shamoun/rebuttals/ally/adam_bq2.html)
+  * [The Omniscience of Christ Pt. 1](https://answeringislam.info/authors/shamoun/rebuttals/ally/omniscience_christ_1.html)
+  * [The Omniscience of Christ Pt. 2](https://answeringislam.info/authors/shamoun/rebuttals/ally/omniscience_christ_2.html)
+  * [The Omniscience of Christ Pt. 3](https://answeringislam.info/authors/shamoun/rebuttals/ally/omniscience_christ_3.html)
+  * [The Omniscience of Christ - Addendum](https://answeringislam.info/authors/shamoun/rebuttals/ally/omniscience_christ_add.html)
+  * [The Omniscience of Allah Examined](https://answeringislam.info/authors/shamoun/rebuttals/ally/omniscience_allah.html)
+  * [How Isaiah 53 Proves That Muhammad Was A False Prophet Pt. 1](https://answeringislam.info/authors/shamoun/rebuttals/ally/isaiah53_1.html)
+  * [How Isaiah 53 Proves That Muhammad Was A False Prophet Pt. 2](https://answeringislam.info/authors/shamoun/rebuttals/ally/isaiah53_2.html)
+  * [How Isaiah 53 Proves That Muhammad Was A False Prophet – Addendum](https://answeringislam.info/authors/shamoun/rebuttals/ally/isaiah53_add.html)
+  * [Has the Quran’s Challenge Been Met? Pt. 1](https://answeringislam.info/authors/shamoun/rebuttals/ally/true_furqan1.html)
+  * [Has the Quran’s Challenge Been Met? Pt. 2](https://answeringislam.info/authors/shamoun/rebuttals/ally/true_furqan2.html)
+  * [Has the Quran’s Challenge Been Met? Pt. 3](https://answeringislam.info/authors/shamoun/rebuttals/ally/true_furqan3.html)
+  * [Refuting One Taqiyyist’s Assault Against the Blessed Apostle Paul](https://answeringislam.info/authors/shamoun/rebuttals/ally/paul_circumcision.html)
+  * [A Muslim Taqiyyist Helps Expose Shabir Ally’s Deceit](https://answeringislam.info/authors/shamoun/rebuttals/ally/paul_circumcision_exposed.html)
+  * [More of Shabir Ally's Lies Exposed Pt. 1](https://answeringislam.info/authors/shamoun/rebuttals/ally/wine1.html)
+  * [More of Shabir Ally's Lies Exposed Pt. 2](https://answeringislam.info/authors/shamoun/rebuttals/ally/wine2.html)
+  * [More of Shabir Ally's Lies Exposed - Addendum](https://answeringislam.info/authors/shamoun/rebuttals/ally/wine_idolatry.html)
+  * [A Good Question: Whom Exactly Does Allah Pay The Ransom to? [Part 1]](https://answeringislam.info/authors/shamoun/rebuttals/ally/allah_ransom1.html)
+  * [A Good Question: Whom Exactly Does Allah Pay The Ransom to? [Part 2]](https://answeringislam.info/authors/shamoun/rebuttals/ally/allah_ransom2.html)
+  * [Ally And The Greatest Commandment [Part 1]](https://answeringislam.info/authors/shamoun/rebuttals/ally/greatest_commandment1.html)
+  * [Ally And The Greatest Commandment [Part 2]](https://answeringislam.info/authors/shamoun/rebuttals/ally/greatest_commandment2.html)
+  * [Ally And The Greatest Commandment [Part 3]](https://answeringislam.info/authors/shamoun/rebuttals/ally/greatest_commandment3.html)
+  * [Shabir Ally Admits that the Quran Confirms the Gospels!](https://answeringislam.info/authors/shamoun/rebuttals/ally/gospels.html)
+  * [Exposing More of Shabir's Deceptive Tactics ](https://answeringislam.info/authors/shamoun/rebuttals/ally/son_of_man_worship.html)
+  * [One Muhammadan’s War against Allah and His “Messenger” Pt. 1](https://answeringislam.info/authors/shamoun/rebuttals/ally/war_against_allah1.html)
+  * [Shabir Ally’s War With Himself](https://answeringislam.info/authors/shamoun/rebuttals/ally/acts3_abuse.html)

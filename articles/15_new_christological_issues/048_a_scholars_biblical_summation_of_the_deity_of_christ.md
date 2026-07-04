@@ -1,0 +1,42 @@
+# A Scholar's Biblical Summation of the Deity of Christ
+
+**Source:** [Answering Islam](https://answeringislam.info/authors/shamoun/macarthur_christ_deity.html)
+
+**Category:** 15 New Christological Issues
+
+---
+
+### A Conservative Christian Scholar’s Biblical Summation  
+Of the Deity of Christ
+
+[Sam Shamoun](https://www.youtube.com/@shamounian)
+
+In another article ([*](/articles/17-a_conservative_christians_evaluation_of_johns_gospel)) we cited renowned Christian scholar and Pastor John MacArthur’s masterful defense of the historical veracity of John’s Gospel, which was taken from his commentary on this same Gospel. 
+
+In his section on John 5:17-24 MacArthur does an outstanding job of summing up the explicit Biblical witness to the Deity of Christ, proving beyond any reasonable doubt that John isn’t the only Gospel wherein Jesus makes divine claims. In light of this, we have decided to quote that particular section at length. 
+
+“Ironically, in all the debate over him, Jesus' own self-testimony is seldom considered reasonably. Did He, as historic Christianity has always maintained, claim to be God incarnate in human flesh? Or, as skeptics argue, did His followers later invent those claims and attribute them to Him? All this unbelieving pseudo scholarship ignores the biblical account of His life and ministry, which leaves no legitimate doubt about who Jesus declared Himself to be, and who He was. 
+
+“Jesus frequently spoke of His unique, otherworldly origin, of having preexisted in heaven before coming into this world. To the hostile Jews He declared, 'You are from below, I am from above; you are of this world, I am not of this world' (8:23). 'What then,' He asked, 'if you see the Son of Man ascending to where He was before?' (6:62). In His High Priestly Prayer Jesus spoke of the glory which He had with the Father before the world existed (17:5). In John 16:28 He told His disciples, 'I came forth from the Father and have come into the world; I am leaving the world again and going to the Father.' 
+
+“Jesus assumed the prerogatives of deity. He claimed to have control over people's eternal destinies (8:24; cf. Luke 12:8-9; John 5:22, 27-29), to have authority over the divinely ordained institution of the Sabbath (Matt. 12:8; Mark 2:28; Luke 6:5), to have the power to answer prayer (John 14:13-14; cf. Acts 7:59; 9:10-17), and to have the right to receive worship, faith, and obedience due to God alone (Matt. 21:16; John 14:1; cf. John 5:23). He also assumed the right to forgive sins (Mark 2:5-11)–something that, as His shocked opponents correctly understood, only God can do (v.7). 
+
+“Jesus also called God's angels (Gen. 28:12; Luke 12:8-9; 15:10; John 1:51) His angels (Matt. 13:41; 24:30-31); God's elect (Luke 18:7; Rom. 8:33) His elect (Matt. 24:30-31); and God's kingdom (Matt. 12:28; 19:24; 21:31; Mark 1:15; Luke 4:43; John 3:3) His kingdom (Matt. 13:41; 16:28; cf. Luke 1:33; 2 Tim. 4:1)… 
+
+“The Lord's favorite description of Himself was 'Son of Man' (cf. Matt. 8:20; Mark 2:28; Luke 6:22; John 9:35-37, etc.). Although that title seems to stress His humanity, it also speaks to His deity. Jesus' use of the term derives from Daniel 7:13-14, where the Son of Man is on equal terms with God the Father, the Ancient of Days. 
+
+“The Jews viewed themselves collectively as sons of God by creation. Jesus, however, claimed to be God's Son by nature. 'All things have been handed over to Me by My Father,' Jesus affirmed, 'and no one knows the Son except the Father; nor does anyone know the Father except the Son, and anyone to whom the Son wills to reveal Him' (Matt. 11:27). In John 5:25-26 He said, 'Truly, truly, I say to you, an hour is coming and now is, when the dead will hear the voice of the Son of God, and those who hear will live. For just as the Father has life in Himself, even so He gave to the Son also to have in Himself.' After receiving word that Lazarus was ill Jesus said to the disciples, 'This sickness is not to end in death, but for the glory of God, so that the Son of God may be glorified by it' (11:4). When asked at His trial, 'Are You the Son of God, then?' Jesus replied, 'Yes, I am' (Luke 22:70; cf. Mark 14:61-62). Instead of rejecting the title, the Lord embraced it without apology or embarrassment (Matt. 4:3, 6; 8:29; Mark 3:11-12; Luke 4:41; John 1:49-50; 11:27). 
+
+“The hostile Jewish authorities clearly understood that Jesus' use of the title Son of God was a claim to deity. Otherwise, they would not have accused Him of blasphemy (cf. 10:36). In fact, it was Jesus' claim to be the Son of God that led the Jews to demand His death: 'The Jews answered [Pilate], 'We have a law, and by that law He ought to die because He made Himself out to be the Son of God' (19:7). Even while He was on the cross, some mocked Him, sneering, 'He trusts in God; let God rescue Him now, if He delights in Him; for He said, "I am the Son of God"' (Matt. 27:43). 
+
+“Jesus further outraged the unbelieving Jews by taking for Himself the covenant name of God, 'I am' (Yahweh). That name was so sacred to the Jews that they refused to even pronounce it, lest they take it in vain and suffer judgment (cf. Ex. 20:7). In John 8:24 Jesus warned that those who refuse to believe He is Yahweh will perish eternally: 'Therefore I said to you that you will die in your sins; for unless you believe that I am He, you will die in your sins.' (The word 'He' is not in the original Greek.) Later in that chapter 'Jesus said to [His hearers], "Truly, truly, I say to you, before Abraham was born, I am' (v.58). Unlike may modern deniers of His deity, the Jews knew exactly what He was claiming, as their subsequent attempt to stone Him for blasphemy makes clear (v.59). In John 13:19 Jesus told His disciples that when what He predicted came to pass, they would believe that He is Yahweh. Even His enemies, coming to arrest Him in Gethsemane, were overwhelmed by His divine power and fell to the ground when Jesus said 'I am' (18:5-8). 
+
+“All the above lines of evidence converge on one inescapable point: Jesus Christ claimed absolute equality with God. Thus He could say, 'I and the Father are one' (10:30); 'He who sees Me sees the One who sent Me' (12:45); and 'He who has seen Me has seen the Father' (14:9). Those who would deny that Jesus claimed to be God must deny the historical accuracy and truthfulness of the gospel records and thereby establish themselves as superior sources of truth. They are saying that they know more about what was true two thousand years ago than the inspired eyewitnesses. Such skepticism is unwarranted, however, since the New Testament is by far the most well-attested document of the ancient world (cf. F. F. Bruce, _The New Testament Documents: Are They Reliable?_ (Downers Grove, Ill.: InterVarsity, 1973)). Skeptics are also hard-pressed to explain why Jesus' monotheistic Jewish followers would have embraced His deity so early in church history apart from His own claims. William Lane Craig notes,
+
+**WITHIN TWENTY YEARS of the crucifixion a full-blown Christology proclaiming Jesus as God incarnate existed**. How does one explain this worship by monotheistic Jews of one of their countrymen as God incarnate, apart from the claims of Jesus Himself? … If Jesus never made such claims, then the belief of the earliest Christians in this regard becomes inexplicable. (_Apologetics: An Introduction_ [Chicago: Moody, 1984], 160)
+
+“This section affirming our Lord's deity flows directly from the confrontation that arose when Jesus healed a crippled man on the Sabbath (vv. 1-16). The Lord did not violate the Old Testament Sabbath regulations, but rather the rabbinic additions to those regulations. Yet He did not defend Himself by pointing out the distinction between God's Law and man's extraneous tradition. Instead, He responded in a far more radical way–He maintained that He was equal with God and thus had the right to do whatever He wanted on the Sabbath. The result is one of the most profound Christological discourses in all of Scripture. In verses 17-24 Jesus makes five unmistakable claims to full equality with God? He is equal with the Father in His person, in His works, in His sovereign power, in His judgment, and in the honor due to Him.” (_The MacArthur New Testament Commentary: John 1-11_[Moody Publishers, Chicago, IL 2006], pp. 182-185; bold and capital emphasis ours)
+
+We couldn’t have stated it any better! 
+
+Jesus Christ is Yahweh to the glory of God the Father!

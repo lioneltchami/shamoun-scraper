@@ -1,0 +1,28 @@
+{
+  "name": "shamoun-scraper",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "db:ingest": "tsx scripts/ingest-articles.ts",
+    "db:validate": "tsx scripts/validate-data.ts",
+    "db:audit-contract": "tsx scripts/audit-content-contract.ts",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@supabase/postgrest-js": "^1.19.6",
+    "@supabase/supabase-js": "^2.47.10",
+    "dotenv": "^16.4.7",
+    "rehype-sanitize": "^6.0.0",
+    "rehype-stringify": "^10.0.1",
+    "remark-gfm": "^4.0.0",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.1",
+    "unified": "^11.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "tsx": "^4.23.0",
+    "typescript": "^5.7.3"
+  }
+}

@@ -60,7 +60,9 @@ async function fetchDbArticles(): Promise<DbArticle[]> {
 			.select(
 				"slug, title, category_id, category_name, category_slug, word_count, content, is_stub",
 			)
-			.order("category_id", { ascending: true })
+			// Use a unique, stable order for paginated reads so range() cannot
+			// duplicate or skip rows within large same-category groups.
+			.order("slug", { ascending: true })
 			.range(from, to)
 			.returns<DbArticle[]>();
 

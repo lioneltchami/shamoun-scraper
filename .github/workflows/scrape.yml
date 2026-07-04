@@ -5,6 +5,10 @@ on:
     - cron: "0 3 * * 0"
   workflow_dispatch:
 
+concurrency:
+  group: shamoun-scraper-content-pipeline
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -47,7 +51,13 @@ jobs:
       - name: Detect content changes
         id: check
         run: |
-          git add articles/ data/ articles_metadata.json failed_downloads.log
+          git add articles/ data/
+          if [ -f articles_metadata.json ]; then
+            git add articles_metadata.json
+          fi
+          if [ -f failed_downloads.log ]; then
+            git add failed_downloads.log
+          fi
           if git diff --staged --quiet; then
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
           else
@@ -62,15 +72,6 @@ jobs:
 
       - name: Install Node dependencies
         run: npm ci
-
-      - name: Commit scraped content
-        if: steps.check.outputs.has_changes == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: scrape new content [$(date -u +%Y-%m-%d)]"
-          git pull --rebase origin main
-          git push
 
       - name: Ingest articles into Supabase
         if: steps.check.outputs.has_changes == 'true'
@@ -90,3 +91,12 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+
+      - name: Commit scraped content
+        if: steps.check.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: scrape new content [$(date -u +%Y-%m-%d)]"
+          git pull --rebase origin main
+          git push

@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": false,
   "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "db:ingest": "tsx scripts/ingest-articles.ts",
     "db:validate": "tsx scripts/validate-data.ts",
